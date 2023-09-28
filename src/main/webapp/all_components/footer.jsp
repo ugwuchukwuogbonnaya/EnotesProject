@@ -14,7 +14,7 @@
 <body>
 <div class="container-fluid p-1 bg-success text-center text-white mt-5" >
 
-  <p  class="bg-cus">@copyright Ugwu Chukwu Ogbonnaya Enote.com</p>
+  <p  class="bg-cus">Designed and Developed by Ugwu Chukwu Ogbonnaya</p>
 </div>
 </body>
 </html>
